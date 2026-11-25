@@ -35,3 +35,7 @@ Currently, I work as a **Security Engineer** at the **Google Operations Center**
 - 🚧 **Google Cloud Associate Cloud Engineer (ACE)**
 - 🚧 **Google Cloud Professional Cloud Security Engineer (PCSE)**
 - 🚧 **Google Cloud Professional Cloud Architect (PCA)**
+- 🚧 **Terraform Associate + CKS**
+- 🚧 **AWS Certified Security - Specialty**
+- 🚧 **(ISC2) CCSP or Azure AZ-500**
+
