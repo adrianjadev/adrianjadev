@@ -14,6 +14,8 @@
 
 I build, harden, and automate cloud environments with a focus on **Google Cloud Platform (GCP)**, **Infrastructure as Code (IaC)**, and **DevSecOps** workflows. My work centers on shifting security left—enforcing least-privilege IAM, network segmentation, and reproducible Terraform deployments so security is built into the pipeline rather than bolted on afterward.
 
+Currently, I work as a **Security Engineer** at the **Google Operations Center**, helping protect millions of users by investigating sophisticated attack vectors related to Phishing, Social Engineering, Malware attacks; and building automation to scale detection and response.
+
 ---
 
 ## Core Technical Stack
@@ -24,7 +26,7 @@ I build, harden, and automate cloud environments with a focus on **Google Cloud 
 - **Containers & Orchestration:** Kubernetes (GKE) • Docker
 - **DevSecOps & CI/CD:** Git • GitHub Actions • Automated Linting • IaC Security Scanning *(Checkov / Trivy / Gitleaks)*
 - **OS & Scripting:** Linux • Bash • YAML • JSON
-  
+
 ---
 
 ### In-Progress Certifications & Specializations
